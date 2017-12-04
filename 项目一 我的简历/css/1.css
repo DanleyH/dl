@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+#d1{
+	width:800px;
+	margin:0 auto;
+	}
+#d2{
+	padding-top:20px;
+	width:30%;
+	text-align:center;
+	background:	#C33;
+	float:left;
+	}
+#d3{
+	width:68%;
+	float:left;
+	}
+img{
+	width:120px;
+	height:auto;
+    }
+.c1{
+	text-align:left;
+	padding-left:10px;
+	}
+h2{
+	border-bottom:solid 2px;
+	}
+h3{
+	color:#FFF;
+	}
+p{
+	font-size:16px;
+	color:#FFF;
+	}
+li{
+	font-weight:900;
+	}
